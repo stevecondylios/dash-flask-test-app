@@ -11,6 +11,7 @@ numpy==1.14.2
 oandapyV20==0.6.3
 pandas==0.22.0
 pandas-datareader==0.6.0
+pipenv==2018.5.18
 post==0.0.13
 public==0.0.38
 pyparsing==2.2.0
@@ -22,5 +23,8 @@ requests==2.18.4
 requests-file==1.4.3
 requests-ftp==0.3.1
 six==1.11.0
+UNKNOWN==0.0.0
 urllib3==1.22
+virtualenv==16.0.0
+virtualenv-clone==0.3.0
 wrapt==1.10.11
